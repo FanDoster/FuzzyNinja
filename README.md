@@ -1,0 +1,4 @@
+FuzzyNinja
+==========
+
+Simple blogging tool
